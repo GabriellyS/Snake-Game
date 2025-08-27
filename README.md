@@ -1,28 +1,32 @@
-# Snake Game
+## Snake Game ![Snake](https://img.icons8.com/external-bearicons-outline-color-bearicons/45/external-Snake-chinese-new-year-bearicons-outline-color-bearicons.png)
 
-Um jogo clássico da cobrinha desenvolvido em **C#** para praticar lógica de programação, manipulação de arrays e controles de fluxo
-
----
-
-## Como funciona
-- A cobrinha se movimenta pela tela e cresce ao comer a comida.
-- O jogo termina quando a cobra colide consigo mesma ou com as bordas.
-- A pontuação aumenta a cada comida coletada.
+A classic snake game developed in **C#** to practice programming logic, array handling, and control flow.
 
 ---
 
-## Tecnologias usadas
+## How it works
+- The snake moves around the screen and grows when it eats food.
+- The game ends when the snake hits itself or the walls.
+- Your score increases with each food collected.
+
+---
+
+## Technologies used
 - **C#**
 - **.NET (Console Application)**
-- Estruturas de repetição (`while`, `for`)
-- Estruturas condicionais (`if/else`)
-- Manipulação de entrada do teclado
+- Loops (`while`, `for`)
+- Conditional statements (`if/else`)
+- Keyboard input handling
+
+![C#](https://img.icons8.com/color/70/c-sharp-logo-2.png)
+![VisualCode](https://img.icons8.com/color/70/visual-studio-code-2019.png)
 
 ---
 
-## Como rodar
-1. Clone este repositório:
+## How to run
+1. Clone this repository:
    ```bash
    git clone https://github.com/GabriellyS/Snake-Game.git
-2. Abra o projeto no Visual Studio ou no VS Code com a extensão de C# instalada
-3. Compile e execute o projeto
+
+2. Open the project in Visual Studio or VS Code (with C# extension installed)
+3. Build and run the project
